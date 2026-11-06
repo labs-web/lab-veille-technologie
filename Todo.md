@@ -11,11 +11,11 @@ Ce fichier organise le travail méthodologique et technique de l'apprenant pour 
 ---
 
 ## 👥 Phase 1 : Cadrage du Besoin & Benchmark (Étapes 1 & 2)
-- [ ] **Définir le besoin (`1.besoin/besoin.md`) :**
-  - [ ] Définition formelle de la veille technologique.
-  - [ ] Pourquoi la veille est indispensable pour un développeur informatique.
-  - [ ] Les étapes du cycle de veille (cibler, collecter, filtrer, analyser, diffuser).
-  - [ ] Les risques de dérive sans méthode (bruit informationnel, dispersion, procrastination).
+- [x] **Définir le besoin (`1.besoin/besoin.md`) :**
+  - [x] Définition formelle de la veille technologique.
+  - [x] Pourquoi la veille est indispensable pour un développeur informatique.
+  - [x] Les étapes du cycle de veille (cibler, collecter, filtrer, analyser, diffuser).
+  - [x] Les risques de dérive sans méthode (bruit informationnel, dispersion, procrastination).
 - [ ] **Benchmark & État de l'art (`2.benchmark/benchmark.md`) :**
   - [ ] Explorer `stateofai.dev` et identifier les enseignements majeurs.
   - [ ] Explorer les registres de skills (`skills.sh`, GitHub) sur les termes en anglais (*technology watch*, *tech-radar*, *trend-scout*, etc.).
